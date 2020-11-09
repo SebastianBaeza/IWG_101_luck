@@ -1,7 +1,7 @@
 # iwg_proyect
 
-Proyecto flutter
-app de dibujo
+Proyecto flutter.
+app de dibujo.
 el zip ocultos tiene archivos que no supe como subir, comprimirlos fue lo mas sencillo que se me ocurrio.
 
 ## Getting Started
