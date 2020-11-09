@@ -1,6 +1,6 @@
 # iwg_proyect
 
-A new Flutter project.
+Proyecto flutter, app dibujo
 
 ## Getting Started
 
