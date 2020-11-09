@@ -1,7 +1,10 @@
 # iwg_proyect
 
 Proyecto flutter.
+por ahora tiene solo la app que se genera de forma default en flutter.
+
 app de dibujo.
+
 el zip ocultos tiene archivos que no supe como subir, comprimirlos fue lo mas sencillo que se me ocurrio.
 
 ## Getting Started
