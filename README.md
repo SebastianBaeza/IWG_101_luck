@@ -5,6 +5,8 @@ por ahora tiene solo la app que se genera de forma default en flutter.
 
 app de dibujo.
 
+agregado paquete de ejemplo de dibujo en la pagina 2
+
 el zip ocultos tiene archivos que no supe como subir, comprimirlos fue lo mas sencillo que se me ocurrio.
 
 ## Getting Started
