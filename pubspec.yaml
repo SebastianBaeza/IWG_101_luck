@@ -21,6 +21,8 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  painter: ^0.4.0
+  flutter_colorpicker: ^0.3.4
   flutter:
     sdk: flutter
 
