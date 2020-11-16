@@ -35,7 +35,7 @@ class _ExamplePageState extends State<ExamplePage> {
   PainterController _newController() {
     PainterController controller = new PainterController();
     controller.thickness = 5.0;
-    controller.backgroundColor = Colors.green;
+    controller.backgroundColor = Colors.white;
     return controller;
   }
 
@@ -85,11 +85,11 @@ class _ExamplePageState extends State<ExamplePage> {
           actions: actions,
           bottom: new PreferredSize(
             child: new DrawBar(_controller),
-            preferredSize: new Size(MediaQuery.of(context).size.width, 30.0),
+            preferredSize: new Size(MediaQuery.of(context).size.width, 40.0),
           )),
       body: new Center(
           child: new AspectRatio(
-              aspectRatio: 1.0, child: new Painter(_controller))),
+              aspectRatio: 2/3, child: new Painter(_controller))),
     );
   }
 
