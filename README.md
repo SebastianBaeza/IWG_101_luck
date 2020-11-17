@@ -7,7 +7,6 @@ app de dibujo.
 
 agregado paquete de ejemplo de dibujo en la pagina 2
 
-el zip ocultos tiene archivos que no supe como subir, comprimirlos fue lo mas sencillo que se me ocurrio.
 
 ## Getting Started
 
